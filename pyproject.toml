@@ -3,7 +3,6 @@ name = "blog"
 version = "0.1.0"
 description = ""
 authors = ["Matt Florence <matt@mattflo.com>"]
-readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.12"
