@@ -14,7 +14,7 @@ I'm fortunate to have attended all three of the conferences in San Francisco and
 
 <figure>
 <p align="center">
-  <img src="/images/openrouter_google.png" alt="OpenRouter Rankings">
+  <img src="../images/openrouter_google.png" alt="OpenRouter Rankings">
 </p>
 <figcaption style="text-align: center">Google has 3 models in the top 5 on OpenRouter this week!</figcaption>
 </figure>
