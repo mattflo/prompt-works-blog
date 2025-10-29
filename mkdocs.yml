@@ -1,4 +1,61 @@
-site_name: My Docs
-site_url: https://mydomain.org/mysite
+site_name: Prompt Works
+site_description: Follow along as I write about my journey into the emerging field of AI Engineering.
+site_url: https://blog.promptworks.io/
 theme:
   name: material
+  logo: assets/logo.png
+  favicon: favicon/favicon-32x32.png
+  custom_dir: docs/overrides
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.expand
+    # - navigation.footer
+    - navigation.indexes
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.prune
+    - navigation.sections
+    # - navigation.tabs.sticky
+    # - navigation.tabs
+    - navigation.top
+    - navigation.tracking
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+plugins:
+  - blog:
+      blog_dir: .
+      blog_toc: true
+      post_url_format: "{slug}"
+      post_readtime: true
+      post_excerpt: optional
+      post_excerpt_separator: <!-- more -->
+      archive: false
+  - social
+
+extra:
+  analytics:
+    provider: custom
+
+nav:
+  - Home: index.md
+  - Home: https://www.promptworks.io
+
+copyright: "© 2025 Prompt Works"

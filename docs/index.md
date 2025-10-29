@@ -1,17 +1,7 @@
-# Welcome to MkDocs
+# Blog
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Follow along as I write about my journey into the emerging field of AI Engineering. Large Language Models (LLMs) open a new category of fuzzy functions allowing us to build software solutions that were not possible before. Regardless of how quickly models continue to improve, there are two categories of techniques that will continue to remain relevant:
 
-## Commands
+1. **Evals** - The cardinality of input and output domains of these functions `f: String -> String` is essentially infinite. This makes the task of measuring quality and performance equal parts difficult and important.
+2. **Composite Solutions** - We will always be able to achieve more reliable results by composing systems from smaller, more purpose built components.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
