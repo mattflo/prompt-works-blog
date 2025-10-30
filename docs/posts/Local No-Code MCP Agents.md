@@ -13,7 +13,7 @@ Do you keep notes and other configuration files on your local system under a git
 
 <!-- more -->
 
-![Chat with MCP Agent](../images/chat.png)
+![Chat with MCP Agent](/images/chat.png)
 
 Admittedly my index has been a lot cleaner lately because of this tool. But you can see how easy this makes it to stay on top of your repo.  I used to only commit once or twice a month. Now I commit most days. 
 
@@ -57,9 +57,9 @@ The setup is slightly different for Claude Desktop vs LibreChat. Ultimately, Lib
 2. Install the [Git MCP server](https://github.com/modelcontextprotocol/servers/tree/main/src/git). Be sure to point it to the path of the git repo you want to manage.
 3. After you restart you should see the tools showing up in the bottom right corner of the chat input. If you click on it, you should see all the tools and a brief description.
 
-![Tools Enabled](../images/tools_enabled.png)
+![Tools Enabled](/images/tools_enabled.png)
 
-![MCP Tools](../images/mcp_tools.png)
+![MCP Tools](/images/mcp_tools.png)
 
 4. Create a Claude Project titled "Home Directory Git Repo Agent". A Claude Project is kind of like an agent. Unfortunately, you can't configure specific tools for different projects. All MCP server tools are available in every project. However, each project can have its own files and system prompt. Enter the following Project Instructions (aka system prompt) and click save. Be sure to use the path to the same git repo you configured above.
 

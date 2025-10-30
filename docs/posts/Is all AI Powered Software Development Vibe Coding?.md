@@ -16,7 +16,7 @@ I think it all comes down to autonomy. First, let's take a look back at the last
 
 <figure>
 <p align="center">
-  <img src="../images/vibecoding_512px.png" alt="Vibe Coding">
+  <img src="/images/vibecoding_512px.png" alt="Vibe Coding">
 </p>
 <figcaption style="text-align: center">Obligatory AI generated image of vibe coding</figcaption>
 </figure>

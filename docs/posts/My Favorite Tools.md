@@ -13,7 +13,7 @@ These are my favorite tools/services as of April 2025. Please note: I use a Mac 
 
 <figure>
 <p align="center">
-  <img src="../images/tools_512px.png" alt="Retro Futuristic Tools">
+  <img src="/images/tools_512px.png" alt="Retro Futuristic Tools">
 </p>
 <figcaption style="text-align: center">Obligatory AI generated image of tools</figcaption>
 </figure>
