@@ -13,7 +13,7 @@ Are you betting on replacing your workers' brains (or your own) with AI? You're 
 
 <figure>
 <p align="center">
-  <img src="/images/ai_software_factory_512px.png" alt="AI Software Factory">
+  <img src="../images/ai_software_factory_512px.png" alt="AI Software Factory">
 </p>
 <figcaption style="text-align: center">Obligatory AI generated image of an AI software factory</figcaption>
 </figure>
