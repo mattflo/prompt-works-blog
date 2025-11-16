@@ -1,6 +1,6 @@
 site_name: Prompt Works
 site_description: Follow along as I write about my journey into the emerging field of AI Engineering.
-site_url: https://test.blog.promptworks.io/
+site_url: https://blog.promptworks.io/
 theme:
   name: material
   logo: assets/logo.png
