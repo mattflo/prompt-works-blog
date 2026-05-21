@@ -2,7 +2,7 @@
 date: 2025-11-25
 categories:
   - rag
-  - context engineering
+  - context_engineering
 slug: improve-rag-with-a-simple-technique
 comments: true
 description: Chunk windowing is an incredibly simple context engineering technique that can improve the quality of augmented replies while keeping your costs predictable.
